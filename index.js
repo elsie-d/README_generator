@@ -1,5 +1,3 @@
-console.log('roar')
-
 inquire = require('inquirer');
 fs = require('fs');
 
